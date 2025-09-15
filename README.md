@@ -63,8 +63,8 @@ plot_pacf(ARMA_2)
 ```
 
 ### OUTPUT:
-NAME : DEVADHAARINI.D
-REGNO: 212223230040
+### NAME : DEVADHAARINI.D
+### REGNO: 212223230040
 SIMULATED ARMA(1,1) PROCESS:
 
 <img width="846" height="643" alt="image" src="https://github.com/user-attachments/assets/32774bfb-fc9f-44f9-a5be-6dbf152f9ecd" />
